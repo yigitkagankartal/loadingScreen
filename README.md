@@ -37,4 +37,4 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/loading-screen.git
+git clone https://github.com/yigitkagankartal/loadingScreen.git
